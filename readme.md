@@ -10,3 +10,6 @@ We create the project to transfer PaddleOCR's model into the version of Onnx mod
 We are using Paddle2ONNX (https://github.com/PaddlePaddle/Paddle2ONNX)  to transform it to Onnx format.
 
 
+
+
+You can visualize the model by https://github.com/lutzroeder/netron/
