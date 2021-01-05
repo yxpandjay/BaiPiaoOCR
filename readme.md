@@ -15,3 +15,6 @@ We are using Paddle2ONNX (https://github.com/PaddlePaddle/Paddle2ONNX)  to trans
 
 
 You can visualize the model by https://github.com/lutzroeder/netron/
+
+
+Welcome to Our QQ Group: 887298230
